@@ -9,4 +9,4 @@
 	url = git://github.com/cmheisel/nose-xcover.git
 [submodule "src/pinax"]
 	path = src/pinax
-	url = git@github.com:lmorchard/pinax.git
+	url = git://github.com/lmorchard/pinax.git
