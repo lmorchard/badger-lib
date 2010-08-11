@@ -23,7 +23,7 @@ packages/django-gravatar
 packages/django-groups
 packages/django-locations
 packages/django-mailer
-packages/django-markup
+packages/django-markup/src
 packages/django-messages
 packages/django-microblogging
 packages/django-notification
@@ -41,11 +41,11 @@ packages/django-threadedcomments
 packages/django-timezones
 packages/django-uni-form
 packages/django-voting
-packages/django-wakawaka
+packages/django-wakawaka/src
 packages/docutils
 packages/elementtree
 packages/freshen
-packages/gdata
+packages/gdata/src
 packages/geopy
 packages/idios
 packages/Markdown
