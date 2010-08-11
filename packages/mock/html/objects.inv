@@ -1,0 +1,21 @@
+# Sphinx inventory version 1
+# Project: Mock
+# Version: 0.7.0
+mock mod index.html
+mock.Mock.call_count attribute mock.html
+mock.patch function patch.html
+mock.DEFAULT data sentinel.html
+mock.MagicMock class magicmock.html
+mock.Mock.method_calls attribute mock.html
+mock.Mock.called attribute mock.html
+mock.patch.object function patch.html
+mock.Mock.assert_called_with method mock.html
+mock.Mock.call_args_list attribute mock.html
+mock.patch.dict function patch.html
+mock.Mock.side_effect attribute mock.html
+mock.Mock class mock.html
+mock.Mock.return_value attribute mock.html
+mock.Mock.call_args attribute mock.html
+mock.mocksignature function mocksignature.html
+mock.sentinel data sentinel.html
+mock.Mock.reset_mock method mock.html

@@ -1,0 +1,8 @@
+{% load i18n %}
+<form method="post" enctype="application/x-www-form-urlencoded" action="{{ form_url }}">
+    <input type="hidden" name="next" value="{{ request.build_absolute_uri }}"/>
+    {{ form.as_p }}
+    <p class="submit">
+        <input type="submit" value="{% trans "Add attachment" %}"/>
+    </p>
+</form>

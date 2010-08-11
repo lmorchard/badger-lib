@@ -1,0 +1,9 @@
+Todo
+====
+
+- Django test runner
+- Selenium support
+- Ability to check on scenario status from hooks
+- Strict mode
+- Step argument transforms for tables and multi-line strings
+

@@ -1,0 +1,34 @@
+Metadata-Version: 1.0
+Name: biblion
+Version: 0.1.dev6
+Summary: the eldarion.com blog app intended to be suitable for site-level company and project blogs
+Home-page: http://github.com/eldarion/biblion
+Author: Eldarion
+Author-email: development@eldarion.com
+License: BSD
+Description: ==============
+        Biblion README
+        ==============
+        
+        Biblion was the eldarion.com blog which we've extracted and open sourced. It
+        is currently positioned as being used for site/project blogs such as
+        eldarion.com and pinaxproject.com. We intend for this app to replace the
+        internal Pinax blog app once we've made it feature complete.
+        
+        
+        Current features include:
+        
+        * support for multiple channels (e.g. technical vs business)
+        * use of Creole as markup format
+        * Atom feeds
+        * previewing of blog posts before publishing
+        * optional ability to announce new posts on twitter
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Framework :: Django

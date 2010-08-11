@@ -1,0 +1,7 @@
+README.txt
+diff_match_patch.py
+setup.cfg
+pip-egg-info/diff_match_patch.egg-info/PKG-INFO
+pip-egg-info/diff_match_patch.egg-info/SOURCES.txt
+pip-egg-info/diff_match_patch.egg-info/dependency_links.txt
+pip-egg-info/diff_match_patch.egg-info/top_level.txt

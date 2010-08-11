@@ -1,0 +1,13 @@
+README
+groups/__init__.py
+groups/base.py
+groups/bridge.py
+groups/helpers.py
+groups/internals.py
+groups/middleware.py
+groups/templatetags/__init__.py
+groups/templatetags/group_tags.py
+pip-egg-info/django_groups.egg-info/PKG-INFO
+pip-egg-info/django_groups.egg-info/SOURCES.txt
+pip-egg-info/django_groups.egg-info/dependency_links.txt
+pip-egg-info/django_groups.egg-info/top_level.txt

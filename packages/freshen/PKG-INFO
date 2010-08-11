@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: freshen
+Version: 0.2
+Summary: Clone of the Cucumber BDD framework for Python
+Home-page: http://github.com/rlisagor/freshen
+Author: Roman Lisagor
+Author-email: rlisagor+freshen@gmail.com
+License: GPL
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Testing

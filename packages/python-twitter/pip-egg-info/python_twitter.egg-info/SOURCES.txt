@@ -1,0 +1,8 @@
+README
+setup.cfg
+twitter.py
+pip-egg-info/python_twitter.egg-info/PKG-INFO
+pip-egg-info/python_twitter.egg-info/SOURCES.txt
+pip-egg-info/python_twitter.egg-info/dependency_links.txt
+pip-egg-info/python_twitter.egg-info/requires.txt
+pip-egg-info/python_twitter.egg-info/top_level.txt

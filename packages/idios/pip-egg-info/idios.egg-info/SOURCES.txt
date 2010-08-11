@@ -1,0 +1,15 @@
+setup.cfg
+idios/__init__.py
+idios/middleware.py
+idios/models.py
+idios/urls.py
+idios/utils.py
+idios/views.py
+idios/templatetags/__init__.py
+idios/templatetags/idios_tags.py
+idios/tests/__init__.py
+idios/tests/test_form.py
+pip-egg-info/idios.egg-info/PKG-INFO
+pip-egg-info/idios.egg-info/SOURCES.txt
+pip-egg-info/idios.egg-info/dependency_links.txt
+pip-egg-info/idios.egg-info/top_level.txt

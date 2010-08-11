@@ -1,0 +1,27 @@
+Metadata-Version: 1.0
+Name: django-tagging-ext
+Version: 0.2.0
+Summary: Adds in new features to supplement django-tagging
+Home-page: http://github.com/pydanny/django-tagging-ext/tree/master
+Author: Daniel Greenfeld
+Author-email: pydanny@gmail.com
+License: MIT
+Description: 
+        =====================================
+        django-tagging-ext
+        =====================================
+         
+        `django-tagging`_ gives you tagging. Django Tagging EXT gives you enhanced
+        displays of tags. It is `Django`_ neutral but when combined with `Pinax`_ 
+        gives you some extra view capabilities based off some of the Pinax core 
+        applications.
+        
+        .. _`django-tagging`: http://code.google.com/p/django-tagging
+        .. _`Django`: http://djangoproject.com
+        
+Keywords: django,pinax
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Framework :: Django
+Classifier: Environment :: Web Environment

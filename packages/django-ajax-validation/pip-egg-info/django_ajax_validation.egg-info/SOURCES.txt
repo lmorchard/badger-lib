@@ -1,0 +1,12 @@
+setup.cfg
+ajax_validation/__init__.py
+ajax_validation/models.py
+ajax_validation/urls.py
+ajax_validation/utils.py
+ajax_validation/views.py
+ajax_validation/templatetags/__init__.py
+ajax_validation/templatetags/jquery_validation.py
+pip-egg-info/django_ajax_validation.egg-info/PKG-INFO
+pip-egg-info/django_ajax_validation.egg-info/SOURCES.txt
+pip-egg-info/django_ajax_validation.egg-info/dependency_links.txt
+pip-egg-info/django_ajax_validation.egg-info/top_level.txt

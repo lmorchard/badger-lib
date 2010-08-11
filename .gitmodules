@@ -1,0 +1,12 @@
+[submodule "src/check"]
+	path = src/check
+	url = http://github.com/jbalogh/check.git
+[submodule "src/django-nose"]
+	path = src/django-nose
+	url = git://github.com/jbalogh/django-nose.git
+[submodule "src/nosexcover"]
+	path = src/nosexcover
+	url = git://github.com/cmheisel/nose-xcover.git
+[submodule "src/pinax"]
+	path = src/pinax
+	url = git@github.com:lmorchard/pinax.git

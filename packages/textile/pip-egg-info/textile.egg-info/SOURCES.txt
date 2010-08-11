@@ -1,0 +1,7 @@
+pip-egg-info/textile.egg-info/PKG-INFO
+pip-egg-info/textile.egg-info/SOURCES.txt
+pip-egg-info/textile.egg-info/dependency_links.txt
+pip-egg-info/textile.egg-info/top_level.txt
+test/test.py
+textile/__init__.py
+textile/functions.py

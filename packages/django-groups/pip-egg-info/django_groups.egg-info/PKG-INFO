@@ -1,0 +1,22 @@
+Metadata-Version: 1.0
+Name: django-groups
+Version: 0.1.dev10
+Summary: Django group support (extracted from Pinax)
+Home-page: http://pinaxproject.com/docs/dev/groups.html
+Author: Brian Rosner
+Author-email: brosner@gmail.com
+License: MIT
+Description: django-groups is a Django app that allows you to easily create "groups" of
+        people around arbitrary objects. For example, you might want a group of people
+        to collobrate on a wiki or tasks.
+        
+        This app is extracted from the work that went into Pinax 0.7. It was written
+        to be extracted from the start.
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Framework :: Django

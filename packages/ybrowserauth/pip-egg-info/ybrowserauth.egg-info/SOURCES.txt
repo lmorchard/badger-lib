@@ -1,0 +1,6 @@
+README.txt
+ybrowserauth.py
+pip-egg-info/ybrowserauth.egg-info/PKG-INFO
+pip-egg-info/ybrowserauth.egg-info/SOURCES.txt
+pip-egg-info/ybrowserauth.egg-info/dependency_links.txt
+pip-egg-info/ybrowserauth.egg-info/top_level.txt
