@@ -51,6 +51,8 @@ packages/idios
 packages/Markdown
 packages/mock
 packages/nose
+packages/oauth
+packages/oauth-python-twitter
 packages/pep8
 packages/pyflakes
 packages/Pygments
@@ -73,3 +75,4 @@ src/check
 src/django-nose
 src/nosexcover
 src/pinax
+src/facebook-python-sdk/src

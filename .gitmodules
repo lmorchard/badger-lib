@@ -10,3 +10,6 @@
 [submodule "src/pinax"]
 	path = src/pinax
 	url = git://github.com/lmorchard/pinax.git
+[submodule "src/facebook-python-sdk"]
+    path = src/facebook-python-sdk
+    url = git://github.com/facebook/python-sdk.git
