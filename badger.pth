@@ -77,3 +77,4 @@ src/nosexcover
 src/pinax
 src/facebook-python-sdk/src
 src/django-multidb-router
+src/django-piston
