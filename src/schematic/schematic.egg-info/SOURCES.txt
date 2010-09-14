@@ -1,0 +1,5 @@
+schematic
+schematic.egg-info/PKG-INFO
+schematic.egg-info/SOURCES.txt
+schematic.egg-info/dependency_links.txt
+schematic.egg-info/top_level.txt

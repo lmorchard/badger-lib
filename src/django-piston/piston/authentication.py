@@ -1,3 +1,6 @@
+import logging
+log = logging.getLogger('nose.badger')
+
 import binascii
 
 import oauth
@@ -125,7 +128,7 @@ def initialize_server_request(request):
         request.method, request.build_absolute_uri(), 
         headers=request.META, parameters=params,
         query_string=request.environ.get('QUERY_STRING', ''))
-        
+
     if oauth_request:
         oauth_server = oauth.OAuthServer(oauth_datastore(oauth_request))
         oauth_server.add_signature_method(oauth.OAuthSignatureMethod_PLAINTEXT())
@@ -263,7 +266,7 @@ class OAuthAuthentication(object):
                 request.consumer = consumer
                 request.throttle_extra = token.consumer.id
                 return True
-            
+
         return False
         
     def challenge(self):
@@ -307,7 +310,7 @@ class OAuthAuthentication(object):
 
         auth_params = request.META.get("HTTP_AUTHORIZATION", "")
         req_params = request.REQUEST
-             
+
         return is_in(auth_params) or is_in(req_params)
         
     @staticmethod

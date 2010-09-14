@@ -21,9 +21,7 @@ doc/index.html
 doc/index.rst
 doc/man.rst
 doc/manbuilder.py
-doc/manbuilder.pyc
 doc/manpage.py
-doc/manpage.pyc
 doc/more_info.rst
 doc/news.rst
 doc/plugins.rst
